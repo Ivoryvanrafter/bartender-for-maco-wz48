@@ -1,4 +1,4 @@
-
+Enhance Bartender for macOS with updated Bartender for macOS Helper | screenshot-tools + clipboard-manager, the #1 helper. Includes screenshot-tools and clipboard-manager for a
 
 
 
